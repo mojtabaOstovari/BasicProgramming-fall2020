@@ -36,7 +36,7 @@ Sunday 1399/11/05, 9:00 AM
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
-    <td><center>A<br>B<br>C</a></center></td>
+    <td><center>A<br>B<br>C</center></td>
     <td><center><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i></center></td>
   </tr> 
 </table>
