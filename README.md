@@ -189,6 +189,6 @@ More information will be published later.
 [**Here**](https://nastaraan.github.io/test2/#assignments)
 
 # Contact
-If you have any questions about the course, please send an email to ostovari.mojtaba@gmail.com
+If you have any questions about the course, please send an email to <i>ostovari.mojtaba@gmail.com</i>
 
 ---
