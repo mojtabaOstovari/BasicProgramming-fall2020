@@ -76,15 +76,6 @@ Sunday 1399/8/18
   * [tutorial point](https://nastaraan.github.io/test2/)
 
 
-
-# Related Links
-
-* [**Google Drive**](https://nastaraan.github.io/test2/)
-* [**Courseware**](https://cw.sharif.edu/)
-* [**Quera**](https://nastaraan.github.io/test2/)
-* [**GitHub**](https://github.com/mojtabaOstovari/BasicPrograming-fall2020/)
-
-
 # Assignments
 * **HW1**
   * Release: ?day 1399/11/?, ?:00  
@@ -100,7 +91,6 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 
 # Final Exam
 Sunday 1399/11/05, 9:00 AM
-<br>More information including subjects and solution will be published later.
 
 
 # Warm-up Questions
@@ -116,15 +106,11 @@ Sunday 1399/11/05, 9:00 AM
 * Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
 <br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">courseware</a>.
 
+
 # TA Classes
 Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
 * A
 * B
-
-
-# References
-* <a href="https://nastaraan.github.io/test2/">javacup</a>
-* <a href="https://nastaraan.github.io/test2/">tutorial points</a>
 
 
 # Grading
@@ -145,6 +131,22 @@ More information will be published later.
 ```
 * There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions. 
 [**Here**](https://nastaraan.github.io/test2/#assignments)
+
+
+
+# References
+* <a href="https://nastaraan.github.io/test2/">javacup</a>
+* <a href="https://nastaraan.github.io/test2/">tutorial points</a>
+
+
+# Related Links
+
+* [**Google Drive**](https://nastaraan.github.io/test2/)
+* [**Courseware**](https://cw.sharif.edu/)
+* [**Quera**](https://nastaraan.github.io/test2/)
+* [**GitHub**](https://github.com/mojtabaOstovari/BasicPrograming-fall2020/)
+
+
 
 # Contact
 If you have any questions about the course, please send an email to <i>ostovari.mojtaba@gmail.com</i>
