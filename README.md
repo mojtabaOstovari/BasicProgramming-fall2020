@@ -106,17 +106,6 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 <br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 
-* **HW2**
-  * Release: ?day 1399/11/?, ?:00  
-  * Deadline: ?day 1399/11/?, ?:00 
-  * Designers: 
-    * A
-    * B
-  
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
-<br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
-
 # Project
 * Release: ?day 1399/11/?, ?:00  
   * Deadline: ?day 1399/11/?, ?:00 
@@ -132,6 +121,7 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 Sunday 1399/11/05, 9:00 AM
 <br>More information including subjects and solution will be published later.
 
+
 # Warm-up Questions
 
 * **Week1**
@@ -144,19 +134,9 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 <br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
 
 
-* **Week2**
-  * Release: ?day 1399/11/?, ?:00  
-  * Designers: 
-    * A
-    * B
-  
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week2), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
-
-
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
-<br>The class is being held virtually. To access the link to the class, please refer to [**your courseware**](https://nastaraan.github.io/test2/).
+<br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">https://cw.sharif.edu/</a>.
 
 # TA Classes
 Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
