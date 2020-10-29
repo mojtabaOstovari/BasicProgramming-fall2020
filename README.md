@@ -27,7 +27,7 @@ In this course,...
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
     <td><center><a href="https://nastaraan.github.io/test2/">A</a><br><a href="https://nastaraan.github.io/test2/">B</a><br><a href="https://nastaraan.github.io/test2/">C</a>       </center></td>
-    <td><center> <i>ostovari.mojtaba@gmail.com</i> </center></td><br><td><center> <i>ostovari.mojtaba@gmail.com</i> </center></td><br><br><td><center> <i>ostovari.mojtaba@gmail.com</i> </center></td>
+    <td><center> <i>ostovari.mojtaba@gmail.com</i> </center><br><center> <i>ostovari.mojtaba@gmail.com</i> </center><br><br><td><center> <i>ostovari.mojtaba@gmail.com</i> </center></td>
   </tr> 
 </table>
 
