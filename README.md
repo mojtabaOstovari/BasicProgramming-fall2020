@@ -21,7 +21,8 @@ table1
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Lecturer</span></center></td>
-    <td><center>Mojtaba Ostovari</center></td> 
+    <td><center> Mojtaba Ostovari </center></td> 
+    <td><center> ostovari.mojtaba@gmail.com </center></td> 
   </tr>
   <tr>
   </tr>
