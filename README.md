@@ -75,22 +75,14 @@ Sunday 1399/8/18
 * References:
   * [tutorial point](https://nastaraan.github.io/test2/)
 
-```markdown
-Lecture 2: ?
-Tuesday 1399/8/20
-```
-* [Class Video](https://nastaraan.github.io/test2/) 
-* [Slide](https://nastaraan.github.io/test2/) 
-* References:
-  * [tutorial point](https://nastaraan.github.io/test2/)
 
 
 # Related Links
 
 * [**Google Drive**](https://nastaraan.github.io/test2/)
-* [**Courseware**](https://nastaraan.github.io/test2/)
+* [**Courseware**](https://cw.sharif.edu/)
 * [**Quera**](https://nastaraan.github.io/test2/)
-* [**GitHub**](https://github.com/nastaraan/test2)
+* [**GitHub**](https://github.com/mojtabaOstovari/BasicPrograming-fall2020/)
 
 
 # Assignments
@@ -106,17 +98,6 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 <br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 
-# Project
-* Release: ?day 1399/11/?, ?:00  
-  * Deadline: ?day 1399/11/?, ?:00 
-  * Designers: 
-    * A
-    * B
-    
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Project), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
-<br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
-
 # Final Exam
 Sunday 1399/11/05, 9:00 AM
 <br>More information including subjects and solution will be published later.
@@ -129,14 +110,11 @@ Sunday 1399/11/05, 9:00 AM
   * Designers: 
     * A
     * B
-  
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
 
 
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
-<br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">https://cw.sharif.edu/</a>.
+<br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">courseware</a>.
 
 # TA Classes
 Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
