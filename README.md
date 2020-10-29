@@ -1,6 +1,6 @@
 
 
-# Basics of Programming 
+# Basic Programming 
 Department of Mathematical Sciences at Sharif University of Technology          
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
@@ -189,6 +189,6 @@ More information will be published later.
 [**Here**](https://nastaraan.github.io/test2/#assignments)
 
 # Contact
-If you have any questions about the course, please send an email to...
+If you have any questions about the course, please send an email to ostovari.mojtaba@gmail.com
 
 ---
