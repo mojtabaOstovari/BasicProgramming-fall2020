@@ -11,8 +11,6 @@ In this course,...
 
 # Presentation Team
 
-table1
-
 <table>
   <tr>
     <td colspan="5"><center><span></span></center></td>
@@ -32,8 +30,7 @@ table1
   </tr> 
 </table>
 
-
-table2
+<!-- 
 
 <table>
   <tr>
@@ -64,6 +61,8 @@ table2
     <td><center><a href="">D</a></center></td>
   </tr>
 </table>
+
+-->
 
 # Lectures
 
