@@ -4,9 +4,19 @@
 Department of Mathematical Sciences at Sharif University of Technology          
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
+
 # Course Description
 
 In this course,...
+
+# Final Exam
+Sunday 1399/11/05, 9:00 AM
+<br>More information including subjects and solution will be published later.
+
+
+# Class Time and Location
+* Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
+<br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">https://cw.sharif.edu/</a>.
 
 
 # Presentation Team
@@ -26,8 +36,8 @@ In this course,...
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
-    <td><center>A<br>B<br>C</center></td>
-    <td><center><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i></center></td> 
+    <td><center>A<br>B<br>C</a></center></td>
+    <td><center><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i></center></td>
   </tr> 
 </table>
 
@@ -76,22 +86,6 @@ Sunday 1399/8/18
 * References:
   * [tutorial point](https://nastaraan.github.io/test2/)
 
-```markdown
-Lecture 2: ?
-Tuesday 1399/8/20
-```
-* [Class Video](https://nastaraan.github.io/test2/) 
-* [Slide](https://nastaraan.github.io/test2/) 
-* References:
-  * [tutorial point](https://nastaraan.github.io/test2/)
-
-
-# Related Links
-
-* [**Google Drive**](https://nastaraan.github.io/test2/)
-* [**Courseware**](https://nastaraan.github.io/test2/)
-* [**Quera**](https://nastaraan.github.io/test2/)
-* [**GitHub**](https://github.com/nastaraan/test2)
 
 
 # Assignments
@@ -107,21 +101,6 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 <br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
 
-# Project
-* Release: ?day 1399/11/?, ?:00  
-  * Deadline: ?day 1399/11/?, ?:00 
-  * Designers: 
-    * A
-    * B
-    
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Project), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
-<br> To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
-
-# Final Exam
-Sunday 1399/11/05, 9:00 AM
-<br>More information including subjects and solution will be published later.
-
 
 # Warm-up Questions
 
@@ -135,19 +114,10 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 <br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
 
 
-# Class Time and Location
-* Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
-<br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">https://cw.sharif.edu/</a>.
-
 # TA Classes
 Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
 * A
 * B
-
-
-# References
-* <a href="https://nastaraan.github.io/test2/">javacup</a>
-* <a href="https://nastaraan.github.io/test2/">tutorial points</a>
 
 
 # Grading
@@ -166,10 +136,23 @@ Information
 Information 
 More information will be published later. 
 ```
-* There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions. 
-[**Here**](https://nastaraan.github.io/test2/#assignments)
+* There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions.
 
-# Contact
-If you have any questions about the course, please send an email to <i>ostovari.mojtaba@gmail.com</i>
+
+
+# References
+* <a href="https://nastaraan.github.io/test2/">javacup</a>
+* <a href="https://nastaraan.github.io/test2/">tutorial points</a>
+
+
+
+# Related Links
+
+* [**Google Drive**](https://nastaraan.github.io/test2/)
+* [**Courseware**](https://nastaraan.github.io/test2/)
+* [**Quera**](https://nastaraan.github.io/test2/)
+* [**GitHub**](https://github.com/nastaraan/test2)
+
+
 
 ---
