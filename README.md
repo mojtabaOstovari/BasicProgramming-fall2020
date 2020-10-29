@@ -1,12 +1,16 @@
 
 
-# Basic Programming 
+<b> Basic Programming </b>
 Department of Mathematical Sciences at Sharif University of Technology          
 <center><img src=".\Images\SUT.png" alt="" border='3' height='150' width='150' /></center>
 
 # Course Description
 
 In this course,...
+
+
+# Final Exam
+Sunday 1399/11/05, 9:00 AM
 
 
 # Presentation Team
@@ -88,9 +92,6 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 <br>To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
 <br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
 
-
-# Final Exam
-Sunday 1399/11/05, 9:00 AM
 
 
 # Warm-up Questions
