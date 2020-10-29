@@ -21,7 +21,7 @@ table1
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Lecturer</span></center></td>
-    <td><center><a href="https://nastaraan.github.io/test2/">S O</a><br>description</center></td> 
+    <td><center>Mojtaba Ostovari</center></td> 
   </tr>
   <tr>
   </tr>
