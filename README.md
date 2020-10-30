@@ -79,7 +79,7 @@ Sunday 1399/8/18
 * [Class Video](https://github.io/test2/) 
 * [Slide](https://github.io/test2/) 
 * References:
-  * [tutorial point](https://nastaraan.github.io/test2/)
+  * [tutorial point](https://github.io/test2/)
 
 
 
@@ -125,11 +125,11 @@ There will be 4 homework sets that release each week and deadlines are a week af
 ```
 * [**Project**](#project) – 40%
 ```markdown
-Information
+After first month and when we learn about object-oriented programming, we start to define a project and each week, we add more task to it. Project is mandatory and you must present yours live.
 ```
 * [**Final Exam**](#final-exam) – 20%
 ```markdown
-Information 
+
 More information will be published later. 
 ```
 * There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions.
