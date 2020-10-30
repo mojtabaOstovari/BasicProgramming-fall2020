@@ -155,6 +155,9 @@ More information will be published later.
 * There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions.
 
 
+# Applications and Tools
+* <a href="https://jdk.java.net/java-se-ri/15">Java JDK</a>
+* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA (Please download <b>Community</> version.)</a>
 
 # References
 * <a href="http://tutorials.jenkov.com/">jenkov</a>
