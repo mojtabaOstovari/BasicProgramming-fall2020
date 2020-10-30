@@ -2,6 +2,7 @@
 <center> Sharif University of Technology <br> Department of Mathematical Sciences </center>
 <br>
 <br>
+
 # Course Description
 
 This course introduces fundamental of computer programming using the Java programming language. we cover all basic syntax of Java with object-oriented programming principles. 
