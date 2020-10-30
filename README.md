@@ -27,8 +27,28 @@ This course introduces fundamental of computer programming using the Java progra
   </tr>
   <tr>
     <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
-    <td><center>A<br>B<br>C</center></td>
-    <td><center><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i><br><i>ostovari.mojtaba@gmail.com</i></center></td>
+    <td>
+      <center>
+        Nastaran Behrooznia<br>
+        Helia Yazdanyar<br>
+        Helia Niaparast<br>
+        Diba Hashemi<br>
+        Seyed AmirMohammad Sadat<br>
+        Mahdi Zare<br>
+        Hossein Rahimi<br>
+        Seyed Erfan Mousavian<br>
+        Mojtaba Olama<br>
+        Matin Ansaripour<br>
+        Mobin Madani<br>
+        Kasra Khoshjo<br>
+        Ali Shafiei<br>
+        Mohammad Torabi<br>
+        Nima Khodaveisi<br>
+        Ali Tavassoli<br>
+        Benyamin Beyzaie
+      </center>
+    </td>
+    <td><center><i>a@gmail.com</i><br><i>a@gmail.com</i><br><i>a@gmail.com</i></center></td>
   </tr> 
 </table>
 
