@@ -110,9 +110,12 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
 
 
 # TA Classes
-Classes will help you to answer weekly homeworks that have no grades. You can access the classes from [**here**](https://nastaraan.github.io/test2/) according to the following time scheduling:
+Classes will help you to answer weekly homeworks that have no grades. You can access the classes according to the following time scheduling:
 * A
 * B
+* C
+* D
+* E
 
 
 # Grading
@@ -136,17 +139,17 @@ More information will be published later.
 
 
 # References
-* <a href="https://nastaraan.github.io/test2/">javacup</a>
-* <a href="https://nastaraan.github.io/test2/">tutorial points</a>
+* <a href="http://tutorials.jenkov.com/">jenkov</a>
+* <a href="https://www.amazon.com/Java-Program-Early-Objects-Deitel/dp/0134743350">Java How to Program, Early Objects</a>
 
 
 
 # Related Links
 
-* [**Google Drive**](https://nastaraan.github.io/test2/)
-* [**Courseware**](https://nastaraan.github.io/test2/)
-* [**Quera**](https://nastaraan.github.io/test2/)
-* [**GitHub**](https://github.com/nastaraan/test2)
+* [**Google Drive**](https://drive.google.com/drive/folders/1WbOBmR6YpQzrEG5tlItcKUJz-t-SSjlt)
+* [**Courseware**](https://cw.sharif.edu/)
+* [**Quera**](https://quera.ir/)
+* [**GitHub**](https://github.com/mojtabaOstovari/BasicPrograming-fall2020)
 
 
 
