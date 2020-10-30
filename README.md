@@ -11,9 +11,8 @@ Sunday 1399/11/05, 9:00 AM
 
 
 # Class Time and Location
-* Sunday and Tuesday 10:30-12:30 AM and Wednesday 1:00-3:00 PM.
-<br>The class is being held virtually. To access the link to the class, please refer to <a href="https://cw.sharif.edu/">https://cw.sharif.edu/</a>.
-
+* Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
+<br>The class is being held virtually. To access the link to the class, please refer to [**Courseware**](https://cw.sharif.edu/).
 
 # Presentation Team
 
