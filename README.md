@@ -130,9 +130,9 @@ Project is mandatory and you must present it live.
 ```
 * [**Final Exam**](#final-exam) – 20%
 ```markdown
-
 More information will be published later. 
 ```
+
 * There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions.
 
 
