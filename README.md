@@ -117,7 +117,7 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 * [**Assignments**](#assignments) – 40%
 ```markdown
-There will be 4 homework sets that release each week and deadlines are a week after release.
+There will be 4 homework sets that release each week.
 ```
 * [**Project**](#project) – 40%
 ```markdown
