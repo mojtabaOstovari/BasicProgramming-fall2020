@@ -1,5 +1,5 @@
 <center><img src=".\Images\SharifUT.png" alt="" border='3' height='150' width='150' /></center>
-<center>Department of Mathematical Sciences <br> Sharif University of Technology</center>
+<center> Sharif University of Technology <br> Department of Mathematical Sciences </center>
 
 # Course Description
 
