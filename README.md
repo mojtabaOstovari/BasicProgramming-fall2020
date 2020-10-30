@@ -157,7 +157,7 @@ More information will be published later.
 
 # App and Tools
 * <a href="https://jdk.java.net/java-se-ri/15">Java JDK</a>
-* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> <p style="color:red">(Please download <b>Community</b> version.)</p>
+* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
 
 # References
 * <a href="http://tutorials.jenkov.com/">jenkov</a>
