@@ -5,10 +5,6 @@
 
 This course introduces fundamental of computer programming using the Java programming language. we cover all basic syntax of Java with object-oriented programming principles. 
 
-# Final Exam
-Sunday 1399/11/05, 9:00 AM
-<br>More information including subjects and solution will be published later.
-
 
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
@@ -130,6 +126,7 @@ Project is mandatory and you must present it live.
 ```
 * [**Final Exam**](#final-exam) – 20%
 ```markdown
+Sunday 1399/11/05, 9:00 AM
 More information will be published later. 
 ```
 
