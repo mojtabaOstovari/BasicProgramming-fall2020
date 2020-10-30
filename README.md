@@ -119,16 +119,15 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 # Grading
 
-* [**Assignments**](#assignments) – ?%
+* [**Assignments**](#assignments) – 40%
+```markdown
+There will be 4 homework sets that release each week and deadlines are a week after release.
+```
+* [**Project**](#project) – 40%
 ```markdown
 Information
-like the rules and honesty and what will happen if they cheat.
 ```
-* [**Project**](#project) – ?%
-```markdown
-Information
-```
-* [**Final Exam**](#final-exam) – ?%
+* [**Final Exam**](#final-exam) – 20%
 ```markdown
 Information 
 More information will be published later. 
