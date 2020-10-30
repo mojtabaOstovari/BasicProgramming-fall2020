@@ -125,7 +125,9 @@ There will be 4 homework sets that release each week and deadlines are a week af
 ```
 * [**Project**](#project) – 40%
 ```markdown
-After first month and when we learn about object-oriented programming, we start to define a project and each week, we add more task to it. Project is mandatory and you must present yours live.
+After first month and when we learn about object-oriented programming, we start to define a project and each week, we add more task to it.
+</br>
+Project is mandatory and you must present yours live.
 ```
 * [**Final Exam**](#final-exam) – 20%
 ```markdown
