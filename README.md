@@ -127,7 +127,7 @@ Sunday 1399/8/18
 
 
 # TA Classes
-Classes will help you to answer weekly homeworks that have no grades. You can access the classes according to the following time scheduling:
+Classes will help you to answer weekly homeworks that have no grades. You can access the classes according to the following time schedule:
 * A
 * B
 * C
