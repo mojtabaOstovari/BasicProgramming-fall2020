@@ -48,7 +48,7 @@ This course introduces fundamental of computer programming using the Java progra
         Benyamin Beyzaie
       </center>
     </td>
-    <td><center><i>a@gmail.com</i><br><i>a@gmail.com</i><br><i>a@gmail.com</i></center></td>
+    <td><center></center></td>
   </tr> 
 </table>
 
