@@ -3,7 +3,7 @@
 
 # Course Description
 
-In this course,...
+This course introduces computer programming using the Java programming language with object-oriented programming principles. 
 
 # Final Exam
 Sunday 1399/11/05, 9:00 AM
