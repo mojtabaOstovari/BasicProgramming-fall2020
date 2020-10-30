@@ -3,7 +3,7 @@
 
 # Course Description
 
-This course introduces computer programming using the Java programming language with object-oriented programming principles. 
+This course introduces fundamental of computer programming using the Java programming language. we cover all basic syntax of Java with object-oriented programming principles. 
 
 # Final Exam
 Sunday 1399/11/05, 9:00 AM
@@ -76,8 +76,8 @@ Sunday 1399/11/05, 9:00 AM
 Lecture 1: Introduction 
 Sunday 1399/8/18
 ```
-* [Class Video](https://nastaraan.github.io/test2/) 
-* [Slide](https://nastaraan.github.io/test2/) 
+* [Class Video](https://github.io/test2/) 
+* [Slide](https://github.io/test2/) 
 * References:
   * [tutorial point](https://nastaraan.github.io/test2/)
 
@@ -91,9 +91,9 @@ Sunday 1399/8/18
     * A
     * B
     
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Assignments/HW1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br>To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/).
-<br>To upload, please refer to [Quera](https://nastaraan.github.io/test2/).
+    
+<br>To ask your questions about this homework, please refer to [Quera](https://quera.ir/).
+<br>To upload, please refer to [Quera](https://quera.ir/).
 
 
 
@@ -105,8 +105,7 @@ To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-
     * A
     * B
   
-To receive, please refer to [GitHub](https://github.com/nastaraan/test2/blob/gh-pages/Warm-up%20Questions/Week1), [Google Drive](https://nastaraan.github.io/test2/), [CW](https://nastaraan.github.io/test2/), or [Quera](https://nastaraan.github.io/test2/).
-<br> To ask your questions about this homework, please refer to [Quera](https://nastaraan.github.io/test2/) or TA Classes according to the time scheduling.
+<br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time scheduling.
 
 
 # TA Classes
