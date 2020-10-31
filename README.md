@@ -10,7 +10,7 @@ This course introduces fundamental of computer programming using the Java progra
 
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
-<br>The class is being held virtually. To access the link to the class, please refer to [**Courseware**](https://cw.sharif.edu/).
+<br>The class is being held virtually. To access the link to the class, please refer to [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
 
 # Presentation Team
 
@@ -36,8 +36,8 @@ This course introduces fundamental of computer programming using the Java progra
         Helia Niaparast<br>
         Diba Hashemi<br>
         Seyed AmirMohammad Sadat<br>
-        Mahdi Zare<br>
-        Hossein Rahimi<br>
+        MohammadMehdi Zare<br>
+        Hossein Rahmani<br>
         Seyed Erfan Mousavian<br>
         Mojtaba Olama<br>
         Matin Ansaripour<br>
