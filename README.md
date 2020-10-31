@@ -39,7 +39,7 @@ This course introduces fundamental of computer programming using the Java progra
         MohammadMehdi Zare<br>
         Hossein Rahmani<br>
         Seyed Erfan Mousavian<br>
-        Mojtaba Olama<br>
+        MohammadAli Olama<br>
         Matin Ansaripour<br>
         Mobin Madani<br>
         Kasra Khoshjo<br>
