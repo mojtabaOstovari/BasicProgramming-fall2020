@@ -123,11 +123,11 @@ Sunday 1399/8/18
 
 # Assignments
 * **Designers**: 
-    Helia Niaparast<br>
-    AmirMohammad Sadat<br>
-    Erfan Mousavian<br>
-    Kasra Khoshjo<br>
-    Mohammad Torabi<br>
+  * Helia Niaparast<br>
+  * AmirMohammad Sadat<br>
+  * Erfan Mousavian<br>
+  * Kasra Khoshjo<br>
+  * Mohammad Torabi<br>
 
 * **HW1**
   * Release: ?day 1399/11/?, ?:00  
