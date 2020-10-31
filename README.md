@@ -159,6 +159,10 @@ More information will be published later.
 * <a href="https://jdk.java.net/java-se-ri/15">Java JDK</a>
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
 
+# Contact
+
+If you have any questions about the course, please send an email to <i>bp.fall2020@gmail.com</i> .
+
 # References
 * <a href="http://tutorials.jenkov.com/">jenkov</a>
 * <a href="https://www.amazon.com/Java-Program-Early-Objects-Deitel/dp/0134743350">Java How to Program, Early Objects</a>
@@ -167,7 +171,7 @@ More information will be published later.
 
 # Related Links
 
-* [**Google Drive**](https://drive.google.com/drive/folders/1WbOBmR6YpQzrEG5tlItcKUJz-t-SSjlt)
+* [**Google Drive**](https://drive.google.com/drive/folders/1vIuDFKcHn_vbFuA0b7gltXgfgCwUW4Dv?usp=sharing)
 * [**Courseware**](https://cw.sharif.edu/)
 * [**Quera**](https://quera.ir/)
 * [**GitHub**](https://github.com/mojtabaOstovari/BasicPrograming-fall2020)
