@@ -122,12 +122,17 @@ Sunday 1399/8/18
 
 
 # Assignments
+* **Designers**: 
+    Helia Niaparast<br>
+    AmirMohammad Sadat<br>
+    Erfan Mousavian<br>
+    Kasra Khoshjo<br>
+    Mohammad Torabi<br>
+
 * **HW1**
   * Release: ?day 1399/11/?, ?:00  
   * Deadline: ?day 1399/11/?, ?:00 
-  * Designers: 
-    * A
-    * B
+
     
     
 <br>To ask your questions about this homework, please refer to [Quera](https://quera.ir/).
