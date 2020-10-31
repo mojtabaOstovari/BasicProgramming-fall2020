@@ -31,44 +31,44 @@ This course introduces fundamental of computer programming using the Java progra
     <td><center><span style="font-weight:bold">Teaching<br>Assistants</span></center></td>
     <td>
       <center>
-        <i>Nastaran Behrooznia</i><br>
-        <i>Helia Yazdanyar</i><br>
-        <i>Helia Niaparast</i><br>
-        <i>Diba Hashemi</i><br>
-        <i>AmirMohammad Sadat</i><br>
-        <i>MohammadMehdi Zare</i><br>
-        <i>Hossein Rahmani</i><br>
-        <i>Erfan Mousavian</i><br>
-        <i>MohammadAli Olama</i><br>
-        <i>Matin Ansaripour</i><br>
-        <i>Mobin Madani</i><br>
-        <i>Kasra Khoshjo</i><br>
-        <i>Ali Shafiei</i><br>
-        <i>Mohammad Torabi</i><br>
-        <i>Nima Khodaveisi</i><br>
-        <i>Ali Tavassoli</i><br>
-        <i>Benyamin Beyzaie</i>
+        Nastaran Behrooznia<br>
+        Helia Yazdanyar<br>
+        Helia Niaparast<br>
+        Diba Hashemi<br>
+        AmirMohammad Sadat<br>
+        MohammadMehdi Zare<br>
+        Hossein Rahmani<br>
+        Erfan Mousavian<br>
+        MohammadAli Olama<br>
+        Matin Ansaripour<br>
+        Mobin Madani<br>
+        Kasra Khoshjo<br>
+        Ali Shafiei<br>
+        Mohammad Torabi<br>
+        Nima Khodaveisi<br>
+        Ali Tavassoli<br>
+        Benyamin Beyzaie
       </center>
     </td>
     <td>
       <center>
-        nastaran.behrooznia@gmail.com<br>
-        helia79yaz@gmail.com<br>
-        helianiaparast@gmail.com<br>
-        diba.hashemi@gmail.com<br>
-        sam.sadat.shokouhi@gmail.com<br>
-        zaremohammadmehdi2001@gmail.com<br>
-        rahmani.hossein1380@gmail.com<br>
-        erfan_mousavian1380@yahoo.com<br>
-        rastegar123456789@gmail.com<br>
-        matinansaripour@gmail.com<br>
-        mobinmadani8@gmail.com<br>
-        kasrakhoshjoo@gmail.com<br>
-        shafieiali42@gmail.com<br>
-        muht2035@gmail.com<br>
-        nima10khodaveisi@gmail.com<br>
-        tavassolyali@gmail.com<br>
-        benyamin137928@gmail.com
+        <i>nastaran.behrooznia@gmail.com</i><br>
+        <i>helia79yaz@gmail.com</i><br>
+        <i>helianiaparast@gmail.com</i><br>
+        <i>diba.hashemi@gmail.com</i><br>
+        <i>sam.sadat.shokouhi@gmail.com</i><br>
+        <i>zaremohammadmehdi2001@gmail.com</i><br>
+        <i>rahmani.hossein1380@gmail.com</i><br>
+        <i>erfan_mousavian1380@yahoo.com</i><br>
+        <i>rastegar123456789@gmail.com</i><br>
+        <i>matinansaripour@gmail.com</i><br>
+        <i>mobinmadani8@gmail.com</i><br>
+        <i>kasrakhoshjoo@gmail.com</i><br>
+        <i>shafieiali42@gmail.com</i><br>
+        <i>muht2035@gmail.com</i><br>
+        <i>nima10khodaveisi@gmail.com</i><br>
+        <i>tavassolyali@gmail.com</i><br>
+        <i>benyamin137928@gmail.com</i>
       </center>
     </td>
   </tr> 
