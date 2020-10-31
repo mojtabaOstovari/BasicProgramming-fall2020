@@ -35,10 +35,10 @@ This course introduces fundamental of computer programming using the Java progra
         Helia Yazdanyar<br>
         Helia Niaparast<br>
         Diba Hashemi<br>
-        Seyed AmirMohammad Sadat<br>
+        AmirMohammad Sadat<br>
         MohammadMehdi Zare<br>
         Hossein Rahmani<br>
-        Seyed Erfan Mousavian<br>
+        Erfan Mousavian<br>
         MohammadAli Olama<br>
         Matin Ansaripour<br>
         Mobin Madani<br>
