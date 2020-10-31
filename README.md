@@ -123,12 +123,12 @@ Sunday 1399/8/18
 
 # Assignments
 
-  ### Designers: 
-    * Helia Niaparast<br>
-    * AmirMohammad Sadat<br>
-    * Erfan Mousavian<br>
-    * Kasra Khoshjo<br>
-    * Mohammad Torabi<br>
+  ### Designers:
+  * Helia Niaparast<br>
+  * AmirMohammad Sadat<br>
+  * Erfan Mousavian<br>
+  * Kasra Khoshjo<br>
+  * Mohammad Torabi<br>
 
   ### Homeworks: 
   * **HW1**
