@@ -31,23 +31,23 @@ This course introduces fundamental of computer programming using the Java progra
     <td><center><span style="font-weight:bold">Teaching<br>Assistants</span></center></td>
     <td>
       <center>
-        Nastaran Behrooznia<br>
-        Helia Yazdanyar<br>
-        Helia Niaparast<br>
-        Diba Hashemi<br>
-        AmirMohammad Sadat<br>
-        MohammadMehdi Zare<br>
-        Hossein Rahmani<br>
-        Erfan Mousavian<br>
-        MohammadAli Olama<br>
-        Matin Ansaripour<br>
-        Mobin Madani<br>
-        Kasra Khoshjo<br>
-        Ali Shafiei<br>
-        Mohammad Torabi<br>
-        Nima Khodaveisi<br>
-        Ali Tavassoli<br>
-        Benyamin Beyzaie
+        <i>Nastaran Behrooznia</i><br>
+        <i>Helia Yazdanyar</i><br>
+        <i>Helia Niaparast</i><br>
+        <i>Diba Hashemi</i><br>
+        <i>AmirMohammad Sadat</i><br>
+        <i>MohammadMehdi Zare</i><br>
+        <i>Hossein Rahmani</i><br>
+        <i>Erfan Mousavian</i><br>
+        <i>MohammadAli Olama</i><br>
+        <i>Matin Ansaripour</i><br>
+        <i>Mobin Madani</i><br>
+        <i>Kasra Khoshjo</i><br>
+        <i>Ali Shafiei</i><br>
+        <i>Mohammad Torabi</i><br>
+        <i>Nima Khodaveisi</i><br>
+        <i>Ali Tavassoli</i><br>
+        <i>Benyamin Beyzaie</i>
       </center>
     </td>
     <td>
