@@ -28,7 +28,7 @@ This course introduces fundamental of computer programming using the Java progra
   <tr>
   </tr>
   <tr>
-    <td><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
+    <td><center><span style="font-weight:bold">Teaching<br>Assistants</span></center></td>
     <td>
       <center>
         Nastaran Behrooznia<br>
