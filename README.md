@@ -42,7 +42,7 @@ This course introduces fundamental of computer programming using the Java progra
         MohammadAli Olama<br>
         Matin Ansaripour<br>
         Mobin Madani<br>
-        Kasra Khoshjo<br>
+        Kasra Khoshjoo<br>
         Ali Shafiei<br>
         Mohammad Torabi<br>
         Nima Khodaveisi<br>
@@ -126,7 +126,7 @@ Sunday 1399/8/18
     * Helia Niaparast<br>
     * AmirMohammad Sadat<br>
     * Erfan Mousavian<br>
-    * Kasra Khoshjo<br>
+    * Kasra Khoshjoo<br>
     * Mohammad Torabi<br>
 
   * ## Homeworks: ##
