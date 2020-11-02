@@ -163,14 +163,19 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 # Grading
 
-* [**Assignments**](#assignments) – <b>40%</b>
+* [**Assignments**](#assignments) – <b>35%</b>
 ```markdown
 There will be 4 homework sets that release each week.
 ```
-* [**Project**](#project) – <b>40%</b>
+* [**Project**](#project) – <b>30%</b>
 ```markdown
 After first month we define a project and each week, we add more task to it.
 Project is mandatory and you must present it live.
+```
+* [**Midterm Exam**](#midterm-exam) – <b>15%</b>
+```markdown
+Sunday 1399/10/27, 9:00 AM
+More information will be published later. 
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
 ```markdown
