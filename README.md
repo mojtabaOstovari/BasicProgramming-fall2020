@@ -174,12 +174,12 @@ Project is mandatory and you must present it live.
 ```
 * [**Midterm Exam**](#midterm-exam) – <b>15%</b>
 ```markdown
-Sunday 1399/10/27, 9:00 AM
+Thursday 1399/9/27.
 More information will be published later. 
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
 ```markdown
-Sunday 1399/11/05, 9:00 AM
+Sunday 1399/11/05, 9:00 AM.
 More information will be published later. 
 ```
 
