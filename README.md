@@ -187,7 +187,7 @@ More information will be published later.
 
 
 # App and Tools
-* <a href="https://jdk.java.net/java-se-ri/15">Java JDK</a>
+* <a href="https://jdk.java.net/java-se-ri/8-MR3">Java JDK</a> (Please download <b>JDK 8</b>.)
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
 
 # Contact
