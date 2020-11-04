@@ -5,12 +5,12 @@
 
 # Course Description
 
-This course introduces fundamental of computer programming using the Java programming language. we cover all basic syntax of Java with object-oriented programming principles. 
+This course introduces the fundamentals of computer programming using the Java programming language. We cover all basic syntax of Java with object-oriented programming principles. 
 
 
 # Class Time and Location
 * Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
-<br>The class is being held virtually. To access the link to the class, please refer to [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
+<br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
 
 # Presentation Team
 
@@ -128,8 +128,8 @@ Sunday 1399/8/18
     * Erfan Mousavian<br>
     * Kasra Khoshjoo<br>
     * Mohammad Torabi<br>
-
-  * ## Homeworks: ##
+  <br>
+  * ## Homework Seies: ##
     * **HW1**
       * Release: ?day 1399/11/?, ?:00  
       * Deadline: ?day 1399/11/?, ?:00 
@@ -137,7 +137,7 @@ Sunday 1399/8/18
     
     
 <br>To ask your questions about this homework, please refer to [Quera](https://quera.ir/).
-<br>To upload, please refer to [Quera](https://quera.ir/).
+<br>To upload your answers, please refer to [Quera](https://quera.ir/).
 
 
 
@@ -153,7 +153,7 @@ Sunday 1399/8/18
 
 
 # TA Classes
-Classes will help you to answer weekly homeworks that have no grades. You can access the classes according to the following time schedule:
+TA classes will help to answer weekly assignments that have no grades. Classes are held virtually in [**here**](https://vc.sharif.edu/ch/ostovari.mojtaba) according to the following time schedule:
 * A
 * B
 * C
@@ -165,25 +165,25 @@ Classes will help you to answer weekly homeworks that have no grades. You can ac
 
 * [**Assignments**](#assignments) – <b>35%</b>
 ```markdown
-There will be 4 homework sets that release each week.
+There will be 4 homework series sets that release each week.
 ```
 * [**Project**](#project) – <b>30%</b>
 ```markdown
-After first month we define a project and each week, we add more task to it.
-Project is mandatory and you must present it live.
+After the first month, we define a project. Each week, we add more tasks to it. 
+Please note that the project is mandatory, and you have to present it live.
 ```
 * [**Midterm Exam**](#midterm-exam) – <b>15%</b>
 ```markdown
 Thursday 1399/9/27.
-More information will be published later. 
+Further details will be announced later. 
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
 ```markdown
 Sunday 1399/11/05, 9:00 AM.
-More information will be published later. 
+Further details will be announced later. 
 ```
 
-* There will be also weekly homeworks with no grade, but we strongly advise you to do them and ask your questions.
+* There are also weekly assignments with <u>no grade</u>, but we strongly advise you to do them and ask your questions, if any.
 
 
 # App and Tools
