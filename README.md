@@ -149,11 +149,11 @@ Sunday 1399/8/18
     * A
     * B
   
-<br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time scheduling.
+<br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time schedule.
 
 
 # TA Classes
-TA classes will help to answer weekly assignments that have no grades. Classes are held virtually in [**here**](https://vc.sharif.edu/ch/ostovari.mojtaba) according to the following time schedule:
+TA classes will help to answer weekly assignments that have no grades. Classes are held virtually [**here**](https://vc.sharif.edu/ch/ostovari.mojtaba) according to the following time schedule:
 * A
 * B
 * C
