@@ -129,7 +129,8 @@ This course introduces the fundamentals of computer programming using the Java p
     * Erfan Mousavian<br>
     * Kasra Khoshjoo<br>
     * Mohammad Torabi<br>
-  <br>
+  
+  
   * ## Homework Series: ##
     * **HW1**
       * Release: ?day 1399/11/?, ?:00  
