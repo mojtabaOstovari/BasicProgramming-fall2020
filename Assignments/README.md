@@ -5,7 +5,7 @@
     * Erfan Mousavian<br>
     * Kasra Khoshjoo<br>
     * Mohammad Torabi<br>
-  <br>
+
   * ## Homework Series: ##
     * **HW1**
       * Release: ?day 1399/11/?, ?:00  
@@ -13,7 +13,7 @@
 
     
     
-<br>To ask your questions about this homework, please refer to [Quera](https://quera.ir/).
+<br>To ask your questions about the homework, please refer to [Quera](https://quera.ir/).
 <br>To upload your answers, please refer to [Quera](https://quera.ir/).
 
  
