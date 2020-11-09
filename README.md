@@ -109,7 +109,6 @@ This course introduces the fundamentals of computer programming using the Java p
 -->
 
 # Lectures
-
   * ##Lecture 1: ##
     ```markdown
     Course description & introduction to Hardware and Software
