@@ -114,10 +114,10 @@ This course introduces the fundamentals of computer programming using the Java p
 Lecture 1: Introduction 
 Sunday 1399/8/18
 ```
-* [Class Video](https://github.io/test2/) 
-* [Slide](https://github.io/test2/) 
+* [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
+* [Slide](https://github.io/test2/)
 * References:
-  * [tutorial point](https://github.io/test2/)
+  * [programmedlessons](http://www.programmedlessons.org/)
 
 
 
