@@ -173,7 +173,7 @@ TA classes will help to answer weekly assignments that have no grades.
 * [Helia Yazdanyar](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/HeliaYazdanyar.txt)
 * [Diba Hashemi](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/DibaHashemi.txt)
 * [MohammadMehdi Zare](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MohammadMehdiZare.txt)
-* [Hossein Rahmani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/HosseinRahmani.txt)
+* [Hossein Rahmani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/HosseinRahmani.txt) Thursday 10:00-12:00.
 * [MohammadAli Olama](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MohammadAliOlama.txt)
 * [Matin Ansaripour](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MatinAnsaripour.txt)
 * [Mobin Madani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MobinMadani.txt)
