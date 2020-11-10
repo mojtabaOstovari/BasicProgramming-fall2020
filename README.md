@@ -110,24 +110,24 @@ This course introduces the fundamentals of computer programming using the Java p
 
 # Lectures
 * ## Lecture 1: ##
+    Sunday 1399/8/18
     ```markdown
     Course description
     Introduction to Hardware
-  
-    Sunday 1399/8/18
     ```
     * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
     * [Course Description Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/intro.pdf)
     * [Hardware Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_01.pdf)
     * References:
       * [programmedlessons](http://www.programmedlessons.org/)
-      
+
+<br>
+
 * ## Lecture 2: ##
+    Tuesday 1399/8/20
     ```markdown
     Introduction to Software
     Representation of data in binary
-  
-    Sunday 1399/8/20
     ```
     * [Class Video]() 
     * [Software Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_02.pdf)
