@@ -125,7 +125,7 @@ This course introduces the fundamentals of computer programming using the Java p
 * ## Lecture 2: ##
     ```markdown
     - Introduction to Software
-    - Data representation in binary
+    - Representation of data in binary
   
     Sunday 1399/8/20
     ```
