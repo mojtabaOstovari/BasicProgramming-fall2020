@@ -155,12 +155,20 @@ This course introduces the fundamentals of computer programming using the Java p
 
 
 # TA Classes
-TA classes will help to answer weekly assignments that have no grades. Classes are held virtually [**here**](https://vc.sharif.edu/ch/ostovari.mojtaba) according to the following time schedule:
-* A
-* B
-* C
-* D
-* E
+TA classes will help to answer weekly assignments that have no grades.
+* [Helia Yazdanyar](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/HeliaYazdanyar.txt)
+* [Diba Hashemi](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/DibaHashemi.txt)
+* [MohammadMehdi Zare](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MohammadMehdiZare.txt)
+* [Hossein Rahmani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/HosseinRahmani.txt)
+* [MohammadAli Olama](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MohammadAliOlama.txt)
+* [Matin Ansaripour](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MatinAnsaripour.txt)
+* [Mobin Madani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MobinMadani.txt)
+* [Kasra Khoshjoo](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/KasraKhoshjoo.txt)
+* [Ali Shafiei](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/AliShafiei.txt)
+* [Mohammad Torabi](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MohammadTorabi.txt)
+* [Nima Khodaveisi](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/NimaKhodaveisi.txt)
+* [Ali Tavassoli](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/AliTavassoli.txt)
+* [Benyamin Beyzaie](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/BenyaminBeyzaie.txt)
 
 
 # Grading
