@@ -111,8 +111,8 @@ This course introduces the fundamentals of computer programming using the Java p
 # Lectures
 * ## Lecture 1: ##
     ```markdown
-    - Course description
-    - Introduction to Hardware
+    Course description
+    Introduction to Hardware
   
     Sunday 1399/8/18
     ```
@@ -124,8 +124,8 @@ This course introduces the fundamentals of computer programming using the Java p
       
 * ## Lecture 2: ##
     ```markdown
-    - Introduction to Software
-    - Representation of data in binary
+    Introduction to Software
+    Representation of data in binary
   
     Sunday 1399/8/20
     ```
