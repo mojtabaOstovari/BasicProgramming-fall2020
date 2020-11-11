@@ -148,28 +148,28 @@ This course introduces the fundamentals of computer programming using the Java p
   
   * ## Homework Series: ##
     <br>* **HW0 (Hi-Programming Homework)**
-      * Release: Sunday 1399/8/25, 11:59 PM  
-      * Deadline: Wednesday 1399/9/5, 11:59 PM
+      * Release: Sunday 1399/8/25, 15:00 PM  
+      * Deadline: Wednesday 1399/9/5, 13:00 PM
       * Grade: 70 points
 
     <br>* **HW1**
-      * Release: Wednesday 1399/8/28, 11:59 PM 
-      * Deadline: Wednesday 1399/9/5, 11:59 PM 
+      * Release: Wednesday 1399/8/28, 15:00 PM 
+      * Deadline: Wednesday 1399/9/5, 13:00 PM 
       * Grade: 240 points
       
     <br>* **HW2**
-      * Release: Wednesday 1399/9/5, 11:59 PM 
-      * Deadline: Wednesday 1399/9/12, 11:59 PM 
+      * Release: Wednesday 1399/9/5, 15:00 PM 
+      * Deadline: Wednesday 1399/9/12, 13:00 PM 
       * Grade: 240 points
      
     <br>* **HW3**
-      * Release: Wednesday 1399/9/12, 11:59 PM 
-      * Deadline: Wednesday 1399/9/19, 11:59 PM 
+      * Release: Wednesday 1399/9/12, 15:00 PM 
+      * Deadline: Wednesday 1399/9/19, 13:00 PM 
       * Grade: 270 points
       
     <br>* **HW4**
-      * Release: Wednesday 1399/9/19, 11:59 PM 
-      * Deadline: Wednesday 1399/9/26, 11:59 PM 
+      * Release: Wednesday 1399/9/19, 15:00 PM 
+      * Deadline: Wednesday 1399/9/26, 13:00 PM 
       * Grade: 300 points
     
     
@@ -197,7 +197,7 @@ TA classes will help to answer weekly assignments that have no grades.
 * [Hossein Rahmani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/HosseinRahmani.txt) 
     * Thursday 10:00-12:00
 * [MohammadAli Olama](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MohammadAliOlama.txt) 
-    * Wednesday 10:00-12:00
+    * Wednesday 16:00-18:00
 * [Matin Ansaripour](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MatinAnsaripour.txt)
 * [Mobin Madani](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/MobinMadani.txt)
 * [Kasra Khoshjoo](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/TA-Groups/KasraKhoshjoo.txt)
