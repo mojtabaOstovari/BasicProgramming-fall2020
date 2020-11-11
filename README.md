@@ -146,27 +146,27 @@ This course introduces the fundamentals of computer programming using the Java p
   
   
   * ## Homework Series: ##
-    * **HW0 (Hi-Programming Homework)**
+    <br>* **HW0 (Hi-Programming Homework)**
       * Release: Sunday 1399/8/25, 11:59 PM  
       * Deadline: Wednesday 1399/9/5, 11:59 PM
       * Grade: 70 points
 
-    * **HW1**
+    <br>* **HW1**
       * Release: Wednesday 1399/8/28, 11:59 PM 
       * Deadline: Wednesday 1399/9/5, 11:59 PM 
       * Grade: 240 points
       
-    * **HW2**
+   <br>* **HW2**
       * Release: Wednesday 1399/9/5, 11:59 PM 
       * Deadline: Wednesday 1399/9/12, 11:59 PM 
       * Grade: 240 points
      
-    * **HW3**
+   <br>* **HW3**
       * Release: Wednesday 1399/9/12, 11:59 PM 
       * Deadline: Wednesday 1399/9/19, 11:59 PM 
       * Grade: 270 points
       
-    * **HW4**
+   <br>* **HW4**
       * Release: Wednesday 1399/9/19, 11:59 PM 
       * Deadline: Wednesday 1399/9/26, 11:59 PM 
       * Grade: 300 points
