@@ -134,6 +134,22 @@ This course introduces the fundamentals of computer programming using the Java p
     * References:
       * [programmedlessons](http://www.programmedlessons.org/)
 
+<br>
+
+* ## Lecture 3: ##
+    Wednesday 1399/8/21
+    ```markdown
+    machine language, Compiler & Interpreter
+    Hello World!
+    using commandline to run a java application
+    ```
+    * [Class Video 1](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_03_1.mkv?forcedownload=1) 
+    * [Video 2](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_03_2.mp4?forcedownload=1) 
+    * [Software Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_03.pdf)
+    * References:
+      * [programmedlessons](http://www.programmedlessons.org/)
+
+
 
 
 # Assignments
