@@ -139,7 +139,7 @@ This course introduces the fundamentals of computer programming using the Java p
 * ## Lecture 3: ##
     Wednesday 1399/8/21
     ```markdown
-    machine language, Compiler & Interpreter
+    Machine language, Compiler & Interpreter
     Hello World!
     using commandline to run a java application
     ```
@@ -166,27 +166,27 @@ This course introduces the fundamentals of computer programming using the Java p
     <br>* **HW0 (Hi-Programming Homework)**
       * Release: Sunday 1399/8/25, 15:00 PM  
       * Deadline: Wednesday 1399/9/5, 13:00 PM
-      * Grade: 70 points
+      * Grade: 7 points
 
     <br>* **HW1**
       * Release: Wednesday 1399/8/28, 15:00 PM 
       * Deadline: Wednesday 1399/9/5, 13:00 PM 
-      * Grade: 240 points
+      * Grade: 24 points
       
     <br>* **HW2**
       * Release: Wednesday 1399/9/5, 15:00 PM 
       * Deadline: Wednesday 1399/9/12, 13:00 PM 
-      * Grade: 240 points
+      * Grade: 24 points
      
     <br>* **HW3**
       * Release: Wednesday 1399/9/12, 15:00 PM 
       * Deadline: Wednesday 1399/9/19, 13:00 PM 
-      * Grade: 270 points
+      * Grade: 27 points
       
     <br>* **HW4**
       * Release: Wednesday 1399/9/19, 15:00 PM 
       * Deadline: Wednesday 1399/9/26, 13:00 PM 
-      * Grade: 300 points
+      * Grade: 30 points
     
     
 <br>To ask your questions about this homework, please refer to [Quera](https://quera.ir/).
