@@ -139,12 +139,13 @@ This course introduces the fundamentals of computer programming using the Java p
 * ## Lecture 3: ##
     Wednesday 1399/8/21
     ```markdown
-    Machine language, Compiler & Interpreter
+    Machine language, High level programming language
+    Compiler & Interpreter
     Hello World!
-    using commandline to run a java application
+    How to run a java application using commandline
     ```
     * [Class Video 1](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_03_1.mkv?forcedownload=1) 
-    * [Video 2](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_03_2.mp4?forcedownload=1) 
+    * [Video 2](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_03_2.m4v?forcedownload=1) 
     * [Software Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_03.pdf)
     * References:
       * [programmedlessons](http://www.programmedlessons.org/)
