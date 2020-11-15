@@ -150,6 +150,19 @@ This course introduces the fundamentals of computer programming using the Java p
     * References:
       * [programmedlessons](http://www.programmedlessons.org/)
 
+<br>
+
+* ## Lecture 4: ##
+    Sunday 1399/8/25
+    ```markdown
+    Primitive data types
+    Declare variable
+    Java Math class
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_04.mkv?forcedownload=1) 
+
+
+
 
 
 

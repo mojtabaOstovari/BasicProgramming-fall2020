@@ -7,5 +7,6 @@ public class M {
         String s = scanner.nextLine();
 
         System.out.println("Hello " + s);
+
     }
 }
