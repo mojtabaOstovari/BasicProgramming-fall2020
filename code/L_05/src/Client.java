@@ -100,14 +100,6 @@ public class Client {
 //
 //        System.out.println(a +" "+ b);
 
-        int h1 = scan.nextInt();
-        int m1 = scan.nextInt();
-        int s1 = scan.nextInt();
-
-        int h2 = scan.nextInt();
-        int m2 = scan.nextInt();
-        int s2 = scan.nextInt();
-
 
     }
 }
