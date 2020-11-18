@@ -174,7 +174,7 @@ This course introduces the fundamentals of computer programming using the Java p
 <br>
 
 * ## Lecture 6: ##
-    Tuesday 1399/8/28
+    Wednesday 1399/8/28
     ```markdown
     String
     Array
