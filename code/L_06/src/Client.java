@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Client {
@@ -90,12 +91,6 @@ public class Client {
             }
             j = j + 1;
         }
-
-
-
-
-
-
 
     }
 }

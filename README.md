@@ -181,6 +181,17 @@ This course introduces the fundamentals of computer programming using the Java p
     ```
     * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_06.m4v?forcedownload=1) 
 
+<br>
+
+* ## Lecture 7: ##
+    Sunday 1399/9/2
+    ```markdown
+    String functions
+    Scanner
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_07.m4v?forcedownload=1) 
+
+
 
 # Assignments
   * ## Designers: ##
@@ -254,14 +265,14 @@ TA classes will help to answer weekly assignments that have no grades.
 
 * [**Assignments**](#assignments) – <b>35%</b>
 ```markdown
-There will be 4 homework series sets that release each week.
+There will be 5 homework series sets that release each week.
 ```
-* [**Project**](#project) – <b>30%</b>
+* [**Project**](#project) – <b>25%</b>
 ```markdown
 After the first month, we define a project. Each week, we add more tasks to it. 
 Please note that the project is mandatory, and you have to present it live.
 ```
-* [**Midterm Exam**](#midterm-exam) – <b>15%</b>
+* [**Midterm Exam**](#midterm-exam) – <b>20%</b>
 ```markdown
 Thursday 1399/9/27.
 Further details will be announced later. 
