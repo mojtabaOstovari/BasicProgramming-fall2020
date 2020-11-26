@@ -224,27 +224,27 @@ This course introduces the fundamentals of computer programming using the Java p
   * ## Homework Series: ##
     <br>* **HW0 (Hi-Programming Homework)**
       * Release: Sunday 1399/8/25, 15:00 PM  
-      * Deadline: Wednesday 1399/9/5, 13:00 PM
+      * Deadline: Wednesday 1399/9/12, 13:00 PM
       * Grade: 7 points
 
     <br>* **HW1**
       * Release: Wednesday 1399/8/28, 15:00 PM 
-      * Deadline: Wednesday 1399/9/5, 13:00 PM 
+      * Deadline: Wednesday 1399/9/12, 13:00 PM 
       * Grade: 24 points
       
     <br>* **HW2**
-      * Release: Wednesday 1399/9/5, 15:00 PM 
-      * Deadline: Wednesday 1399/9/12, 13:00 PM 
+      * Release: Wednesday 1399/9/12, 15:00 PM 
+      * Deadline: Wednesday 1399/9/19, 13:00 PM 
       * Grade: 24 points
      
     <br>* **HW3**
-      * Release: Wednesday 1399/9/12, 15:00 PM 
-      * Deadline: Wednesday 1399/9/19, 13:00 PM 
+      * Release: Wednesday 1399/9/19, 15:00 PM 
+      * Deadline: Wednesday 1399/9/26, 13:00 PM 
       * Grade: 27 points
       
     <br>* **HW4**
-      * Release: Wednesday 1399/9/19, 15:00 PM 
-      * Deadline: Wednesday 1399/9/26, 13:00 PM 
+      * Release: Wednesday 1399/9/26, 15:00 PM 
+      * Deadline: Wednesday 1399/9/3, 13:00 PM 
       * Grade: 30 points
     
     
@@ -254,10 +254,6 @@ This course introduces the fundamentals of computer programming using the Java p
 
 
 # Warm-up Questions
-
-* **Week1**
-  * Release: ?day 1399/11/?, ?:00  
-
   
 <br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time schedule.
 
@@ -283,7 +279,7 @@ TA classes will help to answer weekly assignments that have no grades.
 
 * [**Assignments**](#assignments) – <b>35%</b>
 ```markdown
-There will be 5 homework series sets that release each week.
+There will be 4 homework series sets that release each week.
 ```
 * [**Project**](#project) – <b>25%</b>
 ```markdown
@@ -292,7 +288,7 @@ Please note that the project is mandatory, and you have to present it live.
 ```
 * [**Midterm Exam**](#midterm-exam) – <b>20%</b>
 ```markdown
-Thursday 1399/9/27.
+Thursday 1399/10/3.
 Further details will be announced later. 
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
