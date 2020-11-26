@@ -230,7 +230,7 @@ This course introduces the fundamentals of computer programming using the Java p
     <br>* **HW1**
       * Release: Wednesday 1399/8/28, 15:00 PM 
       * Deadline: Wednesday 1399/9/12, 13:00 PM 
-      * Grade: 24 points
+      * Grade: 38 points
       
     <br>* **HW2**
       * Release: Wednesday 1399/9/12, 15:00 PM 
