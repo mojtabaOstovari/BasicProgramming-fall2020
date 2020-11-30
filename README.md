@@ -211,7 +211,7 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
-* ## Lecture 7: ##
+* ## Lecture 10: ##
     Sunday 1399/9/9
     ```markdown
     Break
