@@ -219,6 +219,16 @@ This course introduces the fundamentals of computer programming using the Java p
     ```
     * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_10.m4v?forcedownload=1) 
 
+<br>
+
+* ## Lecture 11: ##
+    Tuesday 1399/9/11
+    ```markdown
+    Function
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_11.m4v?forcedownload=1) 
+
+<br>
 
 <br>
 
