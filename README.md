@@ -230,6 +230,14 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
+* ## Lecture 12: ##
+    Wednesday 1399/9/12
+    ```markdown
+    Set
+    List
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_12.m4v?forcedownload=1) 
+
 <br>
 
 # Assignments
