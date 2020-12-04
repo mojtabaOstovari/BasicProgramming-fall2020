@@ -255,17 +255,20 @@ This course introduces the fundamentals of computer programming using the Java p
       * Release: Sunday 1399/8/25, 15:00 PM  
       * Deadline: Wednesday 1399/9/12, 13:00 PM
       * Grade: 7 points
+      * [Problems](https://quera.ir/course/assignments/22415/problems) 
 
     <br>* **HW1**
       * Release: Wednesday 1399/8/28, 15:00 PM 
       * Deadline: Wednesday 1399/9/12, 13:00 PM 
       * Grade: 38 points
+      * [Problems](https://quera.ir/course/assignments/22603/problems) 
       * [Solution](http://cw.sharif.edu/mod/folder/view.php?id=80556) 
       
     <br>* **HW2**
       * Release: Wednesday 1399/9/12, 15:00 PM 
       * Deadline: Wednesday 1399/9/19, 13:00 PM 
       * Grade: 24 points
+      * [Problems](https://quera.ir/course/assignments/23376/problems) 
      
     <br>* **HW3**
       * Release: Wednesday 1399/9/19, 15:00 PM 
@@ -274,7 +277,7 @@ This course introduces the fundamentals of computer programming using the Java p
       
     <br>* **HW4**
       * Release: Wednesday 1399/9/26, 15:00 PM 
-      * Deadline: Wednesday 1399/9/3, 13:00 PM 
+      * Deadline: Wednesday 1399/10/3, 13:00 PM 
       * Grade: 30 points
     
     
@@ -286,6 +289,8 @@ This course introduces the fundamentals of computer programming using the Java p
 # Warm-up Questions
   
 <br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time schedule.
+
+
 
 
 # TA Classes
