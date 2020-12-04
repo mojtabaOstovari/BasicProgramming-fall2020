@@ -290,7 +290,9 @@ This course introduces the fundamentals of computer programming using the Java p
   
 <br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time schedule.
 
-
+* [Set1](https://quera.ir/course/assignments/22602/problems)
+* [Set2](https://quera.ir/course/assignments/22912/problems)
+* [Set3](https://quera.ir/course/assignments/23374/problems)
 
 
 # TA Classes
