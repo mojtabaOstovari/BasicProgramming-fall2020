@@ -240,6 +240,17 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
+* ## Lecture 13: ##
+    Sunday 1399/9/16
+    ```markdown
+    Map
+    list (graph)
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_13.m4v?forcedownload=1) 
+
+<br>
+
+
 # Assignments
   * ## Designers: ##
     * Helia Niaparast<br>
