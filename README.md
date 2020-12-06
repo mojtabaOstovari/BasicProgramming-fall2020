@@ -266,16 +266,20 @@ This course introduces the fundamentals of computer programming using the Java p
       * Release: Sunday 1399/8/25, 15:00 PM  
       * Deadline: Wednesday 1399/9/12, 13:00 PM
       * Grade: 7 points
+      * [Problems](https://quera.ir/course/assignments/22415/problems) 
 
     <br>* **HW1**
       * Release: Wednesday 1399/8/28, 15:00 PM 
       * Deadline: Wednesday 1399/9/12, 13:00 PM 
       * Grade: 38 points
+      * [Problems](https://quera.ir/course/assignments/22603/problems) 
+      * [Solution](http://cw.sharif.edu/mod/folder/view.php?id=80556) 
       
     <br>* **HW2**
       * Release: Wednesday 1399/9/12, 15:00 PM 
       * Deadline: Wednesday 1399/9/19, 13:00 PM 
       * Grade: 24 points
+      * [Problems](https://quera.ir/course/assignments/23376/problems) 
      
     <br>* **HW3**
       * Release: Wednesday 1399/9/19, 15:00 PM 
@@ -284,7 +288,7 @@ This course introduces the fundamentals of computer programming using the Java p
       
     <br>* **HW4**
       * Release: Wednesday 1399/9/26, 15:00 PM 
-      * Deadline: Wednesday 1399/9/3, 13:00 PM 
+      * Deadline: Wednesday 1399/10/3, 13:00 PM 
       * Grade: 30 points
     
     
@@ -296,6 +300,10 @@ This course introduces the fundamentals of computer programming using the Java p
 # Warm-up Questions
   
 <br> To ask your questions about this homework, please refer to [Quera](https://quera.ir/) or TA Classes according to the time schedule.
+
+* [Set1](https://quera.ir/course/assignments/22602/problems)
+* [Set2](https://quera.ir/course/assignments/22912/problems)
+* [Set3](https://quera.ir/course/assignments/23374/problems)
 
 
 # TA Classes
@@ -343,8 +351,6 @@ Further details will be announced later.
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
-
-
 * <a href="http://cw.sharif.edu/pluginfile.php/212768/mod_folder/content/0/%D9%86%D8%B5%D8%A8_%D9%88_%D8%B1%D8%A7%D9%87_%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D8%AC%D8%A7%D9%88%D8%A7_%D9%88_%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC_%D9%88_%D8%A7%D9%BE%D9%84%D9%88%D8%AF_%D9%81%D8%A7%DB%8C%D9%84_%D8%B1%D9%88%DB%8C_%DA%A9%D9%88%D8%A6%D8%B1%D8%A7.mp4?forcedownload=1">Installation guide video</a>
 
 # Contact
