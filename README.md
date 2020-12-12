@@ -266,7 +266,7 @@ This course introduces the fundamentals of computer programming using the Java p
     ```markdown
     Recursive
     ```
-    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_15.m4v?forcedownload=1) 
+    * [Class Video](https://drive.google.com/file/d/1QYWI7ICla0sqUCMwsRNS90nMmi5XrLcs/view?usp=sharing) 
 
 <br>
 
