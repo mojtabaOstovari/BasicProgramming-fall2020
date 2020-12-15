@@ -277,6 +277,17 @@ This course introduces the fundamentals of computer programming using the Java p
     ```
     * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_16.mkv?forcedownload=1) 
 
+<br>
+
+
+* ## Lecture 17: ##
+    Tuesday 1399/9/25
+    ```markdown
+    Recursive
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_17.mkv?forcedownload=1)
+
+<br>
 
 <br>
 
@@ -366,7 +377,7 @@ Please note that the project is mandatory, and you have to present it live.
 ```
 * [**Midterm Exam**](#midterm-exam) – <b>20%</b>
 ```markdown
-Thursday 1399/10/3.
+Wednesday 1399/10/3.
 Further details will be announced later. 
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
