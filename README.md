@@ -289,7 +289,19 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
+* ## Lecture 18: ##
+    Wednesday 1399/9/26
+    ```markdown
+    switch case
+    do while
+    Random
+    File
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_18.mkv?forcedownload=1)
+
 <br>
+
+
 
 
 # Assignments
