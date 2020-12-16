@@ -391,8 +391,7 @@ Please note that the project is mandatory, and you have to present it live.
 ```
 * [**Midterm Exam**](#midterm-exam) – <b>20%</b>
 ```markdown
-Wednesday 1399/10/3.
-Further details will be announced later. 
+Wednesday 1399/10/7
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
 ```markdown
