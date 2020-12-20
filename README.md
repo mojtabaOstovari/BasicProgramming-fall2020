@@ -403,11 +403,11 @@ Please note that the project is mandatory, and you have to present it live.
 ```
 * [**Midterm Exam**](#midterm-exam) – <b>20%</b>
 ```markdown
-Wednesday 1399/10/7
+Wednesday 1399/10/7, 10:30 AM.
 ```
 * [**Final Exam**](#final-exam) – <b>20%</b>
 ```markdown
-Sunday 1399/11/05, 9:00 AM.
+Sunday 1399/11/12, 9:00 AM.
 Further details will be announced later. 
 ```
 
