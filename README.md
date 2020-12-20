@@ -348,13 +348,13 @@ This course introduces the fundamentals of computer programming using the Java p
      
     <br>* **HW3**
       * Release: Wednesday 1399/9/19, 15:00 PM 
-      * Deadline: Wednesday 1399/9/26, 13:00 PM 
+      * Deadline: Friday 1399/9/28, 24:00 PM 
       * Grade: 27 points
       * [Problems](https://quera.ir/course/assignments/23793/problems) 
       
     <br>* **HW4**
       * Release: Wednesday 1399/9/26, 15:00 PM 
-      * Deadline: Wednesday 1399/10/3, 13:00 PM 
+      * Deadline: Saturday 1399/10/6, 24:00 PM 
       * Grade: 40 points
       * [Problems](https://quera.ir/course/assignments/24198/problems) 
     
