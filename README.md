@@ -301,6 +301,18 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
+* ## Lecture 19: ##
+    Sunday 1399/9/30
+    ```markdown
+    Introduction to object oriented programming
+    Class
+    Field
+    Constructor
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_19.mkv?forcedownload=1) 
+
+<br>
+
 
 
 
