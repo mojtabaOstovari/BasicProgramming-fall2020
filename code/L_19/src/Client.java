@@ -1,11 +1,16 @@
+import java.util.Arrays;
+
 public class Client {
+
     public static void main(String[] args) {
 
-        Rectangle r1 = new Rectangle("rec1", 3, 5);
+        Color c1 = new Color(10, 84, 5);
+        Rectangle r1 = new Rectangle("rec1", 3, 5, c1);
         Rectangle r2 = new Rectangle();
-        Rectangle r3 = new Rectangle(1, 2);
 
-        System.out.println(r2.x);
+        double a = r1.area();
+
+        System.out.println(Rectangle.count);
 
     }
 }

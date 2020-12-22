@@ -313,6 +313,17 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
+* ## Lecture 20: ##
+    Tuesday 1399/10/2
+    ```markdown
+    Method, static method
+    Field, static field
+    Final
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_20.mkv?forcedownload=1)
+
+<br>
+
 
 
 
