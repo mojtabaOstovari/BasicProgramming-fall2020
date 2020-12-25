@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Rectangle {
 
     static int count=0;
@@ -17,9 +19,7 @@ public class Rectangle {
     }
 
     Rectangle(){
-        this.x = 4;
-        this.y = 4;
-        count++;
+        this("rec0", 4);
     }
 
     Rectangle(String name, int x){
@@ -40,6 +40,18 @@ public class Rectangle {
             }
         }
         return r;
+    }
+
+    static Rectangle[] rectanglesConstructor(int n, Scanner scanner){
+        Rectangle[] R = new Rectangle[n];
+        for (int i = 0; i < n; i++) {
+            R[i] = new Rectangle("rec" + i, scanner.nextInt());
+        }
+        return R;
+    }
+
+    public String toString() {
+        return "name: " + this.name + ", x: " + this.x + ", y: " + this.y;
     }
 
 }
