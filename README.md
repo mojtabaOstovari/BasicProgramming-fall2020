@@ -333,6 +333,12 @@ This course introduces the fundamentals of computer programming using the Java p
     ```
     * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_21.mkv?forcedownload=1)
 
+* ## Lecture 22: ##
+    Wednesday 1399/10/7
+    ```markdown
+    Midterm exam
+    ```
+
 <br>
 
 
