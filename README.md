@@ -344,13 +344,23 @@ This course introduces the fundamentals of computer programming using the Java p
 <br>
 
 * ## Lecture 23: ##
-    Tuesday 1399/10/2
+    Tuesday 1399/10/9
     ```markdown
     Access modifier - private
     setter - getter
     ```
     * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_23.mkv?forcedownload=1)
     * [Project description](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/project.mkv?forcedownload=1)
+
+<br>
+
+* ## Lecture 24: ##
+    Wednesday 1399/10/10
+    ```markdown
+    Access modifier
+    Inheritance
+    ```
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_24.mkv?forcedownload=1)
 
 <br>
 
