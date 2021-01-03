@@ -440,7 +440,7 @@ This course introduces the fundamentals of computer programming using the Java p
 
 * ## BP Wars: Snakes & ladders ##
  
- <center><img src=".\Images\sl.png" alt="" border='3' height='150' width='150' /></center>
+ <center><img src=".\Images\sl.png" alt="" border='3' height='600' width='1067' /></center>
  
 
 
