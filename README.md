@@ -365,7 +365,7 @@ This course introduces the fundamentals of computer programming using the Java p
 <br>
 
 * ## Lecture 25: ##
-    sunday 1399/10/14
+    Sunday 1399/10/14
     ```markdown
     abstract (method, class)
     override
