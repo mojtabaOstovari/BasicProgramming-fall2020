@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Product {
+public abstract class Product {
     protected static int lastId = 0;
     protected int id;
     protected int amount;
@@ -10,7 +10,7 @@ public class Product {
     protected int rating;
     protected int discount;
 
-    private LinkedList<Comment> comments;
+    protected LinkedList<Comment> comments;
 
     Product(int amount, String name, int price, int discount) {
         lastId++;
@@ -22,8 +22,18 @@ public class Product {
         this.comments = new LinkedList<Comment>();
     }
 
+    public abstract int f();
+
     public void addComment(Comment comment){
         comments.add(comment);
+    }
+
+    public final int getPrice() {
+        return this.price;
+    }
+
+    public int getPriceAfterDiscount() {
+        return this.getPrice() * (1 - (this.discount)/100);
     }
 
 }

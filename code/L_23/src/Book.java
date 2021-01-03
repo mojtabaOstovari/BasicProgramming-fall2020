@@ -1,5 +1,7 @@
 public class Book extends Product {
 
+    private static int changePrice = 0;
+
     private String subject;
     private String author;
     private int pages;
@@ -11,6 +13,20 @@ public class Book extends Product {
         this.author = author;
         this.pages = pages;
         this.year = year;
+    }
+
+    public static void setChangePrice(int changePrice) {
+        Book.changePrice = changePrice;
+    }
+
+    @Override
+    public int f() {
+        return 4;
+    }
+
+    public int getPriceAfterDiscount() {
+        return super.getPriceAfterDiscount()
+                * (1 - (changePrice)/100);
     }
 
 }

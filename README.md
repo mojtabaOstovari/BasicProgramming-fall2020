@@ -364,6 +364,18 @@ This course introduces the fundamentals of computer programming using the Java p
 
 <br>
 
+* ## Lecture 25: ##
+    sunday 1399/10/14
+    ```markdown
+    abstract (method, class)
+    override
+    final (variable, method, class)
+    ```
+    * [Class Video 1](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_25_1.mkv?forcedownload=1)
+    * [Class Video 2](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_25_2.mkv?forcedownload=1)
+
+<br>
+
 
 
 

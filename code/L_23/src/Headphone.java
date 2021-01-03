@@ -10,4 +10,9 @@ public class Headphone extends Product {
         this.impedance = impedance;
         this.type = type;
     }
+
+    @Override
+    public int f() {
+        return 5;
+    }
 }
