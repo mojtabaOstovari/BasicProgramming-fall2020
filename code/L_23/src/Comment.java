@@ -1,4 +1,4 @@
-public class Comment {
+public class Comment implements Savable {
     private static int lastId = 0;
     private int id;
     private User owner;
@@ -27,4 +27,10 @@ public class Comment {
     public String getText() {
         return text;
     }
+
+    public void save(){
+        //
+        //
+    }
+
 }

@@ -1,10 +1,12 @@
+import java.awt.print.Printable;
 import java.util.*;
 
 public class Client {
     public static void main(String[] args) {
-        A b = new B();
         Headphone h = new Headphone(5, "sd", 5, 5, "ds", 5, "ds");
         System.out.println(print(h));
+        LinkedList<Savable> ls = new LinkedList<>();
+        ls.add(h);
     }
 
     List<Integer> l = new ArrayList<>();
@@ -16,13 +18,4 @@ public class Client {
     }
 }
 
-class A{
-    int p;
-
-}
-
-class B extends A{
-    int q;
-
-}
 

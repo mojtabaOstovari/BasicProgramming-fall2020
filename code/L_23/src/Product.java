@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public abstract class Product {
+public abstract class Product implements Savable {
     protected static int lastId = 0;
     protected int id;
     protected int amount;
@@ -15,6 +15,7 @@ public abstract class Product {
     Product(int amount, String name, int price, int discount) {
         lastId++;
         this.id = lastId;
+
         this.amount = amount;
         this.name = name;
         this.price = price;
@@ -34,6 +35,11 @@ public abstract class Product {
 
     public int getPriceAfterDiscount() {
         return this.getPrice() * (1 - (this.discount)/100);
+    }
+
+    public void save(){
+        //
+        //
     }
 
 }
