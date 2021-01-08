@@ -1,17 +1,40 @@
+import java.util.Scanner;
+
 public class Client {
-    public static void main(String[] args) throws ArithmeticException{
-        int a = 5;
-        int b = 0;
+
+    public static void main(String[] args) {
+        int[] A = new int[5];
+        //A[5]++;
+        Scanner scanner = new Scanner(System.in);
+
         try {
+            int a = scanner.nextInt();
+            int b = scanner.nextInt();
             int c = a/b;
+            System.out.println(A[5]);
         }
-        catch (Exception e) {
+        catch (ArrayIndexOutOfBoundsException e){
+            System.out.println("index out");
+        }
+        catch (ArithmeticException e){
+            System.out.println("divide by zero");
+            A[5]++;
+        }
+        catch (Exception e){
             System.out.println(e);
         }
         finally {
-            System.out.println("hi");
+
         }
-        throw new ArithmeticException("HELLO");
+
+
+
+
+
+
+
+
 
     }
+
 }
